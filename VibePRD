@@ -1,0 +1,52 @@
+# Idea Roast: PRD Generator for Vibe Coders
+
+**Date:** 2026-04-29
+**Roasted by:** Paul Graham (simulated)
+
+---
+
+## The Idea
+
+A web app that takes a founder's raw idea and generates a comprehensive, technically-complete PRD — including milestones, sequence diagrams, database schema, UI descriptions, test criteria, and risk mitigation — specifically designed to guide non-technical solopreneurs through the entire vibe-coding build process from start to finish.
+
+**Target user:** Project managers and non-technical solopreneurs who want to build software using AI coding tools (Claude Code, Cursor, etc.) but lack the technical background to write a PRD detailed enough to survive the full build process.
+
+---
+
+## Round-by-Round Defense
+
+### Round 1: Problem & Pain Point
+The user identified a specific failure mode: non-technical PMs and solopreneurs start vibe-coding with incomplete PRDs, and the build breaks mid-process due to missing technical specifications (sequence diagrams, schema, security rules, edge cases). The customer is someone who understands *what* they want to build but cannot translate that into the technical detail an AI coding tool needs to execute consistently. Pain confirmed through direct conversation with a PM who experienced this exact failure.
+
+### Round 2: Market Size & Validation
+Market signal is thin but directionally valid. The vibe-coding wave has created a new class of builder — non-technical founders who can ship with AI but have no product discipline. PMs specifically are a strong beachhead: they already understand the value of a PRD and don't need to be educated on why it matters. They just need the technical layer they're missing. Community validation seen via LinkedIn and conferences where PMs are actively seeking answers about how to start building.
+
+### Round 3: Competitors & Differentiation
+Existing PRD tools (ChatGPT, Notion AI, generic AI assistants) stop at product descriptions and market analysis. They assume a technical developer will interpret and execute the PRD. This product goes further: it generates a complete build guide that covers milestones, test criteria, UI wireframe descriptions, sequence diagrams, risk mitigation, and review checklists — everything a solo non-technical builder needs to not just start but survive the entire build journey. The community layer (forum, peer discussion, mentoring) adds a dimension AI tools cannot replicate.
+
+### Round 4: Business Model & Monetization
+- **Price:** $50/month subscription
+- **Go-to-market:** Building in public — founder uses their own tool to ship real products monthly, documents the journey on YouTube, attracts the exact audience (vibe-coding solopreneurs) who are already consuming this content
+- **Differentiation from free AI tools:** Structured workflow specific to PRD generation + community of peers on the same journey — neither of which ChatGPT or Claude provides out of the box
+
+---
+
+## Paul Graham's Verdict
+
+**PIVOT TO BUILD**
+
+**What you got right:**
+- The pain is real and specific — non-technical PMs and solopreneurs break mid-build because their PRD isn't technical enough to survive contact with an AI coding tool
+- The differentiation is genuine — not just PRD generation but a complete build guide covering milestones, test criteria, risk mitigation, and UI descriptions
+- Building in public using your own product is the right go-to-market — it's proof, it's content, and it compounds
+
+**What could still kill you:**
+- You have no paying users yet and the market signal is thin — one conversation is not validation
+- The community play is expensive to bootstrap — a ghost town forum kills trust faster than no forum at all
+- Scope creep will destroy you — "beyond PRD" needs to be ruthlessly defined before you build, not after
+
+**The one thing you must do next:**
+Find 5 PMs or solopreneurs who have tried vibe-coding and failed mid-build. Show them a sample PRD your tool would generate. Ask if they'd pay $50/month for it. Don't build anything until you have 3 out of 5 saying yes.
+
+**PG's parting shot:**
+"You don't have a startup yet — you have a hypothesis. The fastest way to prove it is to make something so specific and so useful for one person that they'd be embarrassed to admit they can't live without it."
